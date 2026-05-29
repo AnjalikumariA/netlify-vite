@@ -25,7 +25,7 @@ export default function Portfolio() {
 
       {/* --- NAVIGATION BAR --- */}
       <nav style={styles.navbar}>
-        <div style={styles.logo}>AK<span style={styles.accent}>.</span></div>
+        <div style={styles.logo}>anjali<span style={styles.accent}>.</span></div>
         <div style={styles.navLinks}>
           <span className="nav-item" style={styles.navLink} onClick={() => scrollToSection('about')}>About</span>
           <span className="nav-item" style={styles.navLink} onClick={() => scrollToSection('skills')}>Skills</span>
